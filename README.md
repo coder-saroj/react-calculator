@@ -2,7 +2,7 @@ React Calculator App
 
 A modern, fully functional calculator application built with React, featuring a custom expression evaluator (no eval), decimal support, error handling, and smooth UI animations. The app is version-controlled with GitHub and deployed live on Vercel.
 
-🔗 Live Demo: https://your-vercel-url.vercel.app
+🔗 Live Demo: [https://your-vercel-url.vercel.app](https://react-calculator-nu-murex.vercel.app/)
 
 📦 Repository: https://github.com/coder-saroj/react-calculator
 
