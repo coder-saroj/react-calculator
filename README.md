@@ -1,90 +1,46 @@
-React Calculator App
+**React Calculator App**
 
-A modern, fully functional calculator application built with React, featuring a custom expression evaluator (no eval), decimal support, error handling, and smooth UI animations. The app is version-controlled with GitHub and deployed live on Vercel.
+A modern calculator built with React, featuring a custom expression evaluator (no eval), decimal support, error handling, and smooth UI animations. Deployed live on Vercel.
 
-🔗 Live Demo: [https://your-vercel-url.vercel.app](https://react-calculator-nu-murex.vercel.app/)
+Live Demo: https://react-calculator-nu-murex.vercel.app
 
-📦 Repository: https://github.com/coder-saroj/react-calculator
+Repo: https://github.com/coder-saroj/react-calculator
 
-✨ Features
+**Highlights**
 
-➕ Basic arithmetic operations (+, -, ×, ÷)
+➕ Basic arithmetic operations (+ - × ÷)
 
 🔢 Decimal number support
 
-⌫ Backspace and Clear functionality
+⌫ Backspace & Clear
 
-❌ Graceful error handling (invalid expressions, divide by zero)
+❌ Graceful error handling (invalid input, divide by zero)
 
-🧠 Custom expression evaluator (no use of eval)
+🧠 Custom evaluator (no eval)
 
-🎨 Polished UI with smooth CSS animations
+🎨 Smooth CSS animations
 
-📱 Responsive layout (works on desktop & mobile)
+📱 Responsive design
 
-🚀 Deployed on Vercel with CI/CD via GitHub
+🚀 CI/CD with GitHub → Vercel
 
 🛠 Tech Stack
 
-Frontend: React (JavaScript)
+React (JavaScript)
 
-Styling: Plain CSS (Grid + Animations)
+CSS Grid & Animations
 
-Version Control: Git & GitHub
+Git & GitHub
 
-Deployment: Vercel
+Vercel
 
-🧠 Key Technical Highlights
-
-Implemented a safe mathematical expression parser using stacks to handle operator precedence.
-
-Prevented invalid inputs such as multiple decimals in a single number.
-
-Added subtle UI animations (hover, press, error shake) for better user experience.
-
-Avoided third-party calculation libraries to keep logic transparent and interview-friendly.
-
-⚙️ Installation & Setup
-
-Clone the repository:
-
+Run Locally
 git clone https://github.com/coder-saroj/react-calculator.git
 cd react-calculator
-
-
-Install dependencies:
-
 npm install
-
-
-Run the app locally:
-
 npm start
-
-
-The app will be available at:
-
-http://localhost:3000
-
-🚀 Deployment
-
-The application is deployed on Vercel.
-
-Every push to the main branch automatically triggers a new deployment via GitHub integration.
-
-📈 Future Improvements
-
-Keyboard input support
-
-Percentage (%) and memory buttons
-
-Light/Dark theme toggle
-
-Unit tests for calculator logic
 
 👨‍💻 Author
 
 Saroj Choudhury
-GitHub: coder-saroj
-
-
+GitHub: https://github.com/coder-saroj
